@@ -1,0 +1,11 @@
+[
+  {
+    "domain": "local.your-domain.tld",
+    "ssl": {
+      "cert": "./ssl/local.your-domain.tld-cert.pem",
+      "key": "./ssl/local.your-domain.tld-key.pem"
+    },
+    "port": 2000,
+    "nginxConf": null
+  }
+]
